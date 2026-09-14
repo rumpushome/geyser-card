@@ -181,7 +181,7 @@ readable in both.
 
 **Card doesn't appear**
 The resource isn't loading. Check the URL and that the type is *JavaScript
-Module*. The browser console logs `GEYSER-CARD v1.1.1` when the card loads.
+Module*. The browser console logs `GEYSER-CARD v1.1.2` when the card loads.
 
 **Setpoint snaps back after I change it**
 The change isn't reaching the entity. Check that `setpoint_entity` really is a
